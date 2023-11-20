@@ -9,6 +9,10 @@
  
   DroneBot Workshop 2022
   https://dronebotworkshop.com/picow-arduino/
+
+  I found this helpful for adding backslashes to the '"' in html code, 
+  so that it can be handled correctly with the Serial.println function.
+  See https://www.freecodeformat.com/add-backslash.php to convert pieces of HTML code.
 */
  
 // Load Wi-Fi library
